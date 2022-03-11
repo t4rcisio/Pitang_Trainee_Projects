@@ -5,7 +5,7 @@ Pojetos em JavaScript e typescript desenvolvidos ao longo do programa Trainee da
 
 
 Projeto 1
--> [https://github.com/t4rcisio/encurta.dor](Encurta.dor)
+-> [Encurta.dor](https://github.com/t4rcisio/encurta.dor)
 - Encurtador de links
   - cadastro de usuário
   - validacão de sessão
