@@ -1,4 +1,4 @@
-# Pitang_Trainee_Projects
+# Pitang Trainee Projects
 
 
 Pojetos em JavaScript e typescript desenvolvidos ao longo do programa Trainee da Pitang
