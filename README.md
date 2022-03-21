@@ -11,3 +11,16 @@ Projeto 1
   - validacão de sessão
   - coleta de metadados
   - conexão com o mongodb cloud 
+
+Projeto 2
+-> [Tickets.com](https://github.com/t4rcisio/ticket.com)
+- Backend de uma plataforma de venda de ingressos
+  - Gerenciamneto de Usuários
+  - Gerenciamneto de Filmes
+  - Gerenciamneto de sessões
+  - Customização de tickets de desconto
+  - Prisma
+  - Validação redundante de dados
+  - Ferramenta de acompanhamento de logs (morgan)
+  - Validação de usuário e sessão
+  - Coockies de sessão
