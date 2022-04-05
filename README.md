@@ -26,13 +26,15 @@ Projeto 2
   - Coockies de sessão
 
 Front-End
--> [Git-API v1](https://github.com/t4rcisio/Front-end/tree/main/git-api-v1) 
+-> [Git-API v1](https://github.com/t4rcisio/Front-end/tree/main/git-api-v1)
+- Aplicação para visualização de perfis no GitHub
   - Basic HTML 
   - Bootstrap
   - JavaScript
 
 Front-End
 -> [Git-API v2](https://github.com/t4rcisio/Front-end/tree/main/react/movie-front-end/tickets.com) 
+- Aplicação para visualização de perfis no GitHub
   - React
   - Bootstrap
   - JavaScript
