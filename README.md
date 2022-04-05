@@ -30,4 +30,12 @@ Front-End
   - Basic HTML 
   - Bootstrap
   - JavaScript
+
+Front-End
+-> [Git-API v2](https://github.com/t4rcisio/Front-end/tree/main/react/movie-front-end/tickets.com) 
+  - React
+  - Bootstrap
+  - JavaScript
+  - life cycle
+  - local Storage
   
